@@ -1,0 +1,156 @@
+[
+
+	{
+		"$ItemType": "Furniture",
+		"ID": "Natural Wall Sconce",
+		"Type": "Sconce",
+		"Configurations": [
+			{
+				"Texture": "assets/natural_candelabra_wall.png",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 2
+			}
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"MaxSold": 10,
+		"Cost": 300,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "staramy.furniture/Natural Wall Sconce"
+		}
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Natural Candelabra",
+		"Type": "Lamp",
+		"Configurations": [
+			{
+				"Texture": "assets/natural_candelabra_stand.png",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1
+			}
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"MaxSold": 10,
+		"Cost": 500,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "staramy.furniture/Natural Candelabra"
+		}
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Cozy Chair",
+		"Type": "Armchair",
+		"Configurations": [
+			{
+				"Texture": "assets/cozy_chair.png",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 1
+			}
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"MaxSold": 10,
+		"Cost": 300,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "staramy.furniture/Cozy Chair"
+		}
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Cozy Patterned Rug",
+		"Type": "Rug",
+		"Configurations": [
+			{
+				"Texture": "assets/plaid_rug.png",
+				"DisplaySize": { "X": 3, "Y": 2 },
+				"CollisionHeight": 1
+			},
+			{
+				"Texture": "assets/patterned_rug.png",
+				"DisplaySize": { "X": 3, "Y": 2 },
+				"CollisionHeight": 1
+			},
+			{
+				"Texture": "assets/plaid_rug_vertical.png",
+				"DisplaySize": { "X": 2, "Y": 3 },
+				"CollisionHeight": 1
+			},
+			{
+				"Texture": "assets/patterned_rug_vertical.png",
+				"DisplaySize": { "X": 2, "Y": 3 },
+				"CollisionHeight": 1
+			}
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"MaxSold": 10,
+		"Cost": 300,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "staramy.furniture/Cozy Patterned Rug"
+		}
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Natural Wood Table",
+		"Type": "Table",
+		"Configurations": [
+			{
+				"Texture": "assets/table.png",
+				"DisplaySize": { "X": 3, "Y": 2 },
+				"CollisionHeight": 1
+			}
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"MaxSold": 10,
+		"Cost": 300,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "staramy.furniture/Natural Wood Table"
+		}
+	},
+{
+		"$ItemType": "Furniture",
+		"ID": "Wood Stove",
+		"Type": "Fireplace",
+		"Configurations": [
+			{
+				"Texture": "assets/wood_stove.png",
+				"DisplaySize": { "X": 2, "Y": 5 },
+				"CollisionHeight": 1
+			}
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"MaxSold": 10,
+		"Cost": 300,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "staramy.furniture/Wood Stove"
+		}
+	},
+]

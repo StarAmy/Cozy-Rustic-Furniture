@@ -1,0 +1,14 @@
+[
+   {
+      "$ItemType":"ContentIndex",
+      "FilePath":"Json/walldecor.json"
+   },
+   {
+      "$ItemType":"ContentIndex",
+      "FilePath":"Json/taxidermy.json"
+   },
+   {
+      "$ItemType":"ContentIndex",
+      "FilePath":"Json/misc.json"
+   },
+]

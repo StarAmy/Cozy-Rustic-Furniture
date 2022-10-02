@@ -1,0 +1,86 @@
+[
+
+	{
+		"$ItemType": "Furniture",
+		"ID": "Branch Lighting",
+		"Type": "Sconce",
+		"Configurations": [
+			{
+				"Texture": "assets/branch_light.png:1",
+				"NightTexture": "assets/branch_light.png:0",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 2
+			},
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"MaxSold": 10,
+		"Cost": 200,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "staramy.furniture/Branch Lighting"
+		}
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Mountain Painting",
+		"Type": "Painting",
+		"Configurations": [
+			{
+				"Texture": "assets/mountain_painting.png",
+				"DisplaySize": { "X": 2, "Y": 1 },
+				"CollisionHeight": 2
+			},
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"MaxSold": 10,
+		"Cost": 200,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "staramy.furniture/Mountain Painting"
+		}
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Cozy Window",
+		"Type": "Window",
+		"Configurations": [
+			{
+				"Texture": "assets/cozy_window.png:0",
+				"NightTexture": "assets/cozy_window.png:1",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 2
+			},
+					{
+				"Texture": "assets/cozy_window.png:2",
+				"NightTexture": "assets/cozy_window.png:3",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 2
+			},
+					{
+				"Texture": "assets/cozy_window.png:4",
+				"NightTexture": "assets/cozy_window.png:5",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 2
+			},
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"MaxSold": 10,
+		"Cost": 200,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "staramy.furniture/Cozy Window"
+		}
+	},
+]
