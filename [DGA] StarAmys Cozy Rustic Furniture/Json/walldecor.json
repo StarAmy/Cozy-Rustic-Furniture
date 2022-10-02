@@ -17,7 +17,7 @@
 		"$ItemType": "ShopEntry",
 		"ShopId": "Carpenter",
 		"MaxSold": 10,
-		"Cost": 200,
+		"Cost": 500,
 		"Item":  
 		{
 			"Type": "DGAItem",
@@ -40,7 +40,7 @@
 		"$ItemType": "ShopEntry",
 		"ShopId": "Carpenter",
 		"MaxSold": 10,
-		"Cost": 200,
+		"Cost": 300,
 		"Item":  
 		{
 			"Type": "DGAItem",
@@ -76,7 +76,7 @@
 		"$ItemType": "ShopEntry",
 		"ShopId": "Carpenter",
 		"MaxSold": 10,
-		"Cost": 200,
+		"Cost": 400,
 		"Item":  
 		{
 			"Type": "DGAItem",

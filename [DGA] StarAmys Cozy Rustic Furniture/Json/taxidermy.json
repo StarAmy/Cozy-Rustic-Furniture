@@ -21,7 +21,7 @@
 		"$ItemType": "ShopEntry",
 		"ShopId": "Carpenter",
 		"MaxSold": 10,
-		"Cost": 800,
+		"Cost": 600,
 		"Item":  
 		{
 			"Type": "DGAItem",
@@ -59,57 +59,11 @@
 		"$ItemType": "ShopEntry",
 		"ShopId": "Carpenter",
 		"MaxSold": 10,
-		"Cost": 800,
+		"Cost": 400,
 		"Item":  
 		{
 			"Type": "DGAItem",
 			"Value": "staramy.furniture/Trophy"
-		}
-	},
-	{
-		"$ItemType": "Furniture",
-		"ID": "Natural Wall Sconce",
-		"Type": "Painting",
-		"Configurations": [
-			{
-				"Texture": "assets/natural_candelabra_wall.png",
-				"DisplaySize": { "X": 1, "Y": 2 },
-				"CollisionHeight": 2
-			}
-		]
-	},	
-	{
-		"$ItemType": "ShopEntry",
-		"ShopId": "Carpenter",
-		"MaxSold": 10,
-		"Cost": 300,
-		"Item":  
-		{
-			"Type": "DGAItem",
-			"Value": "staramy.furniture/Natural Wall Sconce"
-		}
-	},
-	{
-		"$ItemType": "Furniture",
-		"ID": "Natural Candelabra",
-		"Type": "Lamp",
-		"Configurations": [
-			{
-				"Texture": "assets/natural_candelabra_stand.png",
-				"DisplaySize": { "X": 1, "Y": 2 },
-				"CollisionHeight": 1
-			}
-		]
-	},	
-	{
-		"$ItemType": "ShopEntry",
-		"ShopId": "Carpenter",
-		"MaxSold": 10,
-		"Cost": 500,
-		"Item":  
-		{
-			"Type": "DGAItem",
-			"Value": "staramy.furniture/Natural Candelabra"
 		}
 	},
 ]
