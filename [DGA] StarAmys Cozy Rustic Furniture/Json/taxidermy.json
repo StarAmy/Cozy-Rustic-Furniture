@@ -25,7 +25,7 @@
 		"Item":  
 		{
 			"Type": "DGAItem",
-			"Value": "staramy.furniture/Jackalope"
+			"Value": "staramy.cozyrustic/Jackalope"
 		}
 	},
 		{
@@ -63,7 +63,7 @@
 		"Item":  
 		{
 			"Type": "DGAItem",
-			"Value": "staramy.furniture/Trophy"
+			"Value": "staramy.cozyrustic/Trophy"
 		}
 	},
 ]

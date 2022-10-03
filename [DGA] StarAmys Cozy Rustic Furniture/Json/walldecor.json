@@ -21,7 +21,7 @@
 		"Item":  
 		{
 			"Type": "DGAItem",
-			"Value": "staramy.furniture/Branch Lighting"
+			"Value": "staramy.cozyrustic/Branch Lighting"
 		}
 	},
 	{
@@ -44,7 +44,7 @@
 		"Item":  
 		{
 			"Type": "DGAItem",
-			"Value": "staramy.furniture/Mountain Painting"
+			"Value": "staramy.cozyrustic/Mountain Painting"
 		}
 	},
 	{
@@ -80,7 +80,7 @@
 		"Item":  
 		{
 			"Type": "DGAItem",
-			"Value": "staramy.furniture/Cozy Window"
+			"Value": "staramy.cozyrustic/Cozy Window"
 		}
 	},
 ]

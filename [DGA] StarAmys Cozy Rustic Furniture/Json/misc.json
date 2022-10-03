@@ -20,7 +20,7 @@
 		"Item":  
 		{
 			"Type": "DGAItem",
-			"Value": "staramy.furniture/Natural Wall Sconce"
+			"Value": "staramy.cozyrustic/Natural Wall Sconce"
 		}
 	},
 	{
@@ -43,7 +43,7 @@
 		"Item":  
 		{
 			"Type": "DGAItem",
-			"Value": "staramy.furniture/Natural Candelabra"
+			"Value": "staramy.cozyrustic/Natural Candelabra"
 		}
 	},
 	{
@@ -66,7 +66,7 @@
 		"Item":  
 		{
 			"Type": "DGAItem",
-			"Value": "staramy.furniture/Cozy Chair"
+			"Value": "staramy.cozyrustic/Cozy Chair"
 		}
 	},
 	{
@@ -104,7 +104,7 @@
 		"Item":  
 		{
 			"Type": "DGAItem",
-			"Value": "staramy.furniture/Cozy Patterned Rug"
+			"Value": "staramy.cozyrustic/Cozy Patterned Rug"
 		}
 	},
 	{
@@ -127,7 +127,7 @@
 		"Item":  
 		{
 			"Type": "DGAItem",
-			"Value": "staramy.furniture/Natural Wood Table"
+			"Value": "staramy.cozyrustic/Natural Wood Table"
 		}
 	},
 {
@@ -150,7 +150,7 @@
 		"Item":  
 		{
 			"Type": "DGAItem",
-			"Value": "staramy.furniture/Wood Stove"
+			"Value": "staramy.cozyrustic/Wood Stove"
 		}
 	},
 ]
