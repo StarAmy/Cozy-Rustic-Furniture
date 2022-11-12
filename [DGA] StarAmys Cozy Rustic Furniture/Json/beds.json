@@ -1,0 +1,147 @@
+[
+
+   {
+      "$ItemType": "Furniture",
+      "ID": "Cozy Red Bed",
+      "Type": "Bed",
+      "BedType": "Double",
+      "Configurations": [
+         {
+            "Texture": "assets/red_bed.png:0 ",
+            "FrontTexture": "assets/red_bed.png:1",
+            "DisplaySize": { "X": 3, "Y": 5 },
+            "CollisionHeight": 3
+         },
+      ]
+   }, 
+   {
+      "$ItemType": "ShopEntry",
+      "ShopId": "Carpenter",
+      "Cost": 1000,
+      "Item":  
+      {
+         "Type": "DGAItem",
+         "Value": "staramy.cozyrustic/Cozy Red Bed"
+      }
+   },
+   {
+      "$ItemType": "Furniture",
+      "ID": "Cozy Brown Bed",
+      "Type": "Bed",
+      "BedType": "Double",
+      "Configurations": [
+         {
+            "Texture": "assets/brown_bed.png:0 ",
+            "FrontTexture": "assets/brown_bed.png:1",
+            "DisplaySize": { "X": 3, "Y": 5 },
+            "CollisionHeight": 3
+         },
+      ]
+   }, 
+   {
+      "$ItemType": "ShopEntry",
+      "ShopId": "Carpenter",
+      "Cost": 1000,
+      "Item":  
+      {
+         "Type": "DGAItem",
+         "Value": "staramy.cozyrustic/Cozy Brown Bed"
+      }
+   },
+   {
+      "$ItemType": "Furniture",
+      "ID": "Cozy Grey Bed",
+      "Type": "Bed",
+      "BedType": "Double",
+      "Configurations": [
+         {
+            "Texture": "assets/grey_bed.png:0 ",
+            "FrontTexture": "assets/grey_bed.png:1",
+            "DisplaySize": { "X": 3, "Y": 5 },
+            "CollisionHeight": 3
+         },
+      ]
+   }, 
+   {
+      "$ItemType": "ShopEntry",
+      "ShopId": "Carpenter",
+      "Cost": 1000,
+      "Item":  
+      {
+         "Type": "DGAItem",
+         "Value": "staramy.cozyrustic/Cozy Grey Bed"
+      }
+   },
+   {
+      "$ItemType": "Furniture",
+      "ID": "Single Cozy Grey Bed",
+      "Type": "Bed",
+      "BedType": "Single",
+      "Configurations": [
+         {
+            "Texture": "assets/single_grey_bed.png:0 ",
+            "FrontTexture": "assets/single_grey_bed.png:1",
+            "DisplaySize": { "X": 2, "Y": 4 },
+            "CollisionHeight": 3
+         },
+      ]
+   }, 
+   {
+      "$ItemType": "ShopEntry",
+      "ShopId": "Carpenter",
+      "Cost": 600,
+      "Item":  
+      {
+         "Type": "DGAItem",
+         "Value": "staramy.cozyrustic/Single Cozy Grey Bed"
+      }
+   },
+   {
+      "$ItemType": "Furniture",
+      "ID": "Single Cozy Brown Bed",
+      "Type": "Bed",
+      "BedType": "Single",
+      "Configurations": [
+         {
+            "Texture": "assets/single_brown_bed.png:0 ",
+            "FrontTexture": "assets/single_brown_bed.png:1",
+            "DisplaySize": { "X": 2, "Y": 4 },
+            "CollisionHeight": 3
+         },
+      ]
+   }, 
+   {
+      "$ItemType": "ShopEntry",
+      "ShopId": "Carpenter",
+      "Cost": 600,
+      "Item":  
+      {
+         "Type": "DGAItem",
+         "Value": "staramy.cozyrustic/Single Cozy Brown Bed"
+      }
+   },
+   {
+      "$ItemType": "Furniture",
+      "ID": "Single Cozy Red Bed",
+      "Type": "Bed",
+      "BedType": "Single",
+      "Configurations": [
+         {
+            "Texture": "assets/single_red_bed.png:0 ",
+            "FrontTexture": "assets/single_red_bed.png:1",
+            "DisplaySize": { "X": 2, "Y": 4 },
+            "CollisionHeight": 3
+         },
+      ]
+   }, 
+   {
+      "$ItemType": "ShopEntry",
+      "ShopId": "Carpenter",
+      "Cost": 600,
+      "Item":  
+      {
+         "Type": "DGAItem",
+         "Value": "staramy.cozyrustic/Single Cozy Red Bed"
+      }
+   },
+]
