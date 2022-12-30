@@ -153,4 +153,50 @@
 			"Value": "staramy.cozyrustic/Wood Stove"
 		}
 	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Stone Hearth",
+		"Type": "Fireplace",
+		"Configurations": [
+			{
+				"Texture": "assets/hearth.png",
+				"DisplaySize": { "X": 2, "Y": 5 },
+				"CollisionHeight": 1
+			}
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"MaxSold": 10,
+		"Cost": 1200,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "staramy.cozyrustic/Stone Hearth"
+		}
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Cozy Stone Hearth",
+		"Type": "Fireplace",
+		"Configurations": [
+			{
+				"Texture": "assets/cozy_hearth.png",
+				"DisplaySize": { "X": 2, "Y": 5 },
+				"CollisionHeight": 1
+			}
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"MaxSold": 10,
+		"Cost": 1200,
+		"Item":  
+		{
+			"Type": "DGAItem",
+			"Value": "staramy.cozyrustic/Cozy Stone Hearth"
+		}
+	},
 ]
